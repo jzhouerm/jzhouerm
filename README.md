@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jzhouerm.github.io/](https://jzhouerm.github.io/)
 
-- 🥅 2020 Goals: **Contribute to Open Source projects**
-
 - 📫 How to reach me **jzhouerm39@gmail.com**
 
 ### Blogs posts
@@ -17,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/juliazhou39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliazhou39" height="30" width="40" /></a>
 <a href="https://medium.com/@jzhouerm39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jzhouerm39" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucu3t6avqpghxd7ecgh9b7dg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucu3t6avqpghxd7ecgh9b7dg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/juleszhou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="juleszhou" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jzhouerm39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jzhouerm39" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jzhouerm39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jzhouerm39" height="30" width="40" /></a>
 </p>
