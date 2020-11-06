@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [jzhouerm.github.io/](jzhouerm.github.io/)
 
+- 🥅 2020 Goals: **Contribute to Open Source projects**
+
 - 📫 How to reach me **jzhouerm39@gmail.com**
 
 ### Blogs posts
