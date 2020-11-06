@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jzhouerm&label=Profile%20views&color=0e75b6&style=flat" alt="jzhouerm" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jzhouerm.github.io/](https://jzhouerm.github.io/)
+- 👨‍💻 All of my projects are available at [jzhouerm.github.io/](jzhouerm.github.io/)
 
 - 📫 How to reach me **jzhouerm39@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/juliazhou39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliazhou39" height="30" width="40" /></a>
 <a href="https://medium.com/@jzhouerm39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jzhouerm39" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jzhouerm39@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jzhouerm39@gmail.com" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jzhouerm39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jzhouerm39" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jzhouerm39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jzhouerm39" height="30" width="40" /></a>
 </p>
